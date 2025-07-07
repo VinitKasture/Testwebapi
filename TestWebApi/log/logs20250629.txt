@@ -1,0 +1,5 @@
+2025-06-29 15:46:09.094 +05:30 [INF] Now listening on: https://localhost:7178
+2025-06-29 15:46:09.137 +05:30 [INF] Now listening on: http://localhost:5004
+2025-06-29 15:46:09.508 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-29 15:46:09.509 +05:30 [INF] Hosting environment: Development
+2025-06-29 15:46:09.510 +05:30 [INF] Content root path: C:\Vinit\SQL\Notes\TestWebApi\TestWebApi
